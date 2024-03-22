@@ -36,7 +36,7 @@ export const styles = StyleSheet.create({
         width: 56,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: 'grey',
+        backgroundColor: 'green',
         borderRadius: 5
     },
     form:{
@@ -44,5 +44,10 @@ export const styles = StyleSheet.create({
         flexDirection: 'row',
         marginTop: 36,
         marginBottom: 42
+    }, 
+    componentEmpt: {
+      color: 'white',
+      textAlign: 'center',
+      fontSize:16
     }
   })
