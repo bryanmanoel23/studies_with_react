@@ -35,8 +35,6 @@ const [ participantesName, setPartipanteName ] = useState('')
     console.log(`Participante ${name} removido`)
   }
 
-  // const participantes = 
-
   return(    
     <View style={styles.container}>
       
